@@ -1,4 +1,4 @@
-#Project Description:
+Project Description:
 
 This project offers an interactive 3D visualization of global temperature anomalies spanning over a century. It begins with raw temperature data, from which latitude and longitude points associated with temperature anomalies are extracted and saved into a JSON format for efficient use. Leveraging Three.js, a 3D globe is created to represent Earth dynamically within the browser.
 
